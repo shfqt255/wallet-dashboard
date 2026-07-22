@@ -8,31 +8,19 @@ A **pixel-perfect Wallet Dashboard UI** built with **Flutter** by recreating the
 
 ## Original Design
 
-> Replace the image below with the provided design.
 
 <p align="center">
-  <img src="assets/readme/original_design.png" width="350">
+  <img src="assets\images\readme_images\original.png" width="350">
 </p>
 
 ---
 
 ## Flutter Recreation
 
-> Replace the image below with your application's screenshot.
-
 <p align="center">
-  <img src="assets/readme/flutter_dashboard.png" width="350">
+  <img src="assets\images\readme_images\recreate.jpeg" width="350">
 </p>
 
----
-
-## Side-by-Side Comparison
-
-<p align="center">
-  <img src="assets/readme/comparison.png" width="900">
-</p>
-
----
 
 #  Features
 
@@ -126,7 +114,7 @@ Some icons in the reference design appear to come from a custom icon set rather 
 ## Clone
 
 ```bash
-git clone https://github.com/yourusername/wallet_dashboard.git
+git clone https://github.com/shfqt255/wallet_dashboard.git
 ```
 
 ## Navigate
